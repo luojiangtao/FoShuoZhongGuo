@@ -1,3 +1,11 @@
 {
-    "title": "《佛说中国》罗江涛·著"
+    "title": "《佛说中国》罗江涛·著",
+    "plugins": [
+        "baidu-tongji"
+    ],
+    "pluginsConfig": {
+        "baidu-tongji": {
+            "siteid": "3f7a9c4499648955d28820c1fdddc998"
+        }
+    }
 }
